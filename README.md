@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Nihad1903
-- 👀 I’m interested in Android developing.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me: nihadtaghiyev1@gmail.com
-- 😄 Pronouns: he/him :d
+ How to reach me: nihadtaghiyev1@gmail.com

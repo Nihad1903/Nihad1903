@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/nihadtaghiyev" target="blank"><img src="https://img.shields.io/twitter/follow/nihadtaghiyev?logo=twitter&style=for-the-badge" alt="nihadtaghiyev" /></a> </p>
 
-- I'm working on [UniAz](uniaz.info)
 
-- 📫 How to reach me **nihadtaghiyev1@gmail.com**
+- How to reach me **nihadtaghiyev1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
